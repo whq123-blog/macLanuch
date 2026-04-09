@@ -69,6 +69,9 @@ iOSInjectionProject/
 .LSOverride
 ._*
 
+# DMG files (release artifacts)
+*.dmg
+
 # Thumbnails
 Thumbs.db
 
